@@ -6,7 +6,7 @@ Sandbox-repo has been created. There is main.R, raw pheno tables and R project w
 
 | Column characteristic | Kuban | Lipetsk |
 | --------------------- | ----- | --------|
-| Growth type | OK, I guess | 2022 is missing :( |
+| Growth type | OK, I guess, but excess | pretty good, but 2022 is missing :( |
 
 ### Growth type values KUBAN
 
@@ -23,3 +23,12 @@ Sandbox-repo has been created. There is main.R, raw pheno tables and R project w
 | индт - индт | NA | индт - индт | NA |
 | почти дт и полу дт | почти дт - полу дт | NA | NA |
 | NA | NA | NA | дт - полу дт |
+
+### Growth type values LIPETSK
+
+| 2020 | 2021 | 2022 | 2023 |
+| ---- | ---- | ---- | ---- |
+| $\color{red}{полу\ дт}$ | $\color{red}{полу\ дт}$ | NA | $\color{red}{полу\ дт}$ |
+| $\color{red}{дт}$ | $\color{red}{дт}$ | NA | $\color{red}{дт}$ |
+| $\color{red}{индт}$ | $\color{red}{индт}$ | NA | $\color{red}{индт}$ |
+| $\color{red}{почти\ дт}$ | $\color{red}{почти\ дт}$ | NA | $\color{red}{почти\ дт}$ |
