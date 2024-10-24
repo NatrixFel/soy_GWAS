@@ -32,3 +32,5 @@ Sandbox-repo has been created. There is main.R, raw pheno tables and R project w
 | $\color{red}{дт}$ | $\color{red}{дт}$ | NA | $\color{red}{дт}$ |
 | $\color{red}{индт}$ | $\color{red}{индт}$ | NA | $\color{red}{индт}$ |
 | $\color{red}{почти\ дт}$ | $\color{red}{почти\ дт}$ | NA | $\color{red}{почти\ дт}$ |
+
+Optimal type of analysis: places and years except 2022
