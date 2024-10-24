@@ -1,12 +1,16 @@
 # What a beautiful GWAS
-
-## 24.10.24
-
-Sandbox-repo has been created. There is main.R, raw pheno tables and R project with some kind of work with the "growth type" column.
-
+## 1. Data preparation
 | Column characteristic | Kuban | Lipetsk |
 | --------------------- | ----- | --------|
 | Growth type | OK, I guess, but excess | pretty good, but 2022 is missing :( |
+| Plant lodging | in progress... | in progress... |
+| Cracking | in progress... | in progress... |
+| Yield | in progress... | in progress... |
+| Vegetation period | in progress... | in progress... |
+
+#### 24.10.24
+
+Sandbox-repo has been created. There is main.R, raw pheno tables and R project with some kind of work with the "growth type" column.
 
 ### Growth type values KUBAN
 
